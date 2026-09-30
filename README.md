@@ -104,6 +104,7 @@ No external Python packages are required to run the current version.
 
 ```text
 FocusFingerprint/
+
 │
 ├── README.md
 ├── statement.md
@@ -120,8 +121,16 @@ FocusFingerprint/
 ├── reports/
 │   └── focus_report.txt
 │
-└── tests/
-    └── test_analyzer.py
+├── tests/
+│   └── test_analyzer.py
+│
+└── docs/
+    ├── architecture.png
+    ├── workflow.png
+    ├── use_case.png
+    ├── class_diagram.png
+    ├── sequence_diagram.png
+    └── storage_diagram.png
 ```
 
 ---
